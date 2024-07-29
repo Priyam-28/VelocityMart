@@ -1,0 +1,11 @@
+skeleton design will approach to make user friendly and smooth ai 
+
+ work on driver.js
+
+tech stack=> firebase redux react nodeJs zustand tailwindcss daisy ui 
+             reactnative and expo and firebase as backend for app 
+
+Maam/sir Velocity Mart basically encounters the problem of resource reusablity which is a significant challenge. Maam for example we will shift our hostel in a month from now. So there are many things we leave behind like old copies and small electrical components that we used in our sem projects. Our lab coat that has no more use to us. Our lab records and more such items. They are sold when our room gets cleaned after going. so instead of selling them and keeping them in hostel a student can list his items that he wishes in our website/app and these items will be given to someone who has needs for these items
+
+
+#FADAD4
